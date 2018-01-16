@@ -2,11 +2,6 @@
 
 ## Assignment for Week 1
 
----
-title: "Exercise 1"
-output: html_document
----
-
 ## Quiz
 
 Take the [interactive quiz](https://libjohn.shinyapps.io/intro2r_quizzes/#section-loading-data)
